@@ -1,0 +1,2 @@
+firewall_external_access_zigbee: True
+firewall_zone_zigbee: home
