@@ -1,2 +1,2 @@
 # zigbee2mqtt-salt
-configures zigbee2mqtt via salt
+1st draft -- I'll add instructions and an installer later
